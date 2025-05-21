@@ -1,7 +1,9 @@
 
 # 🖨️ 3D Printer Controller GUI
 
-A Python-based graphical user interface (GUI) for controlling and calibrating a syringe-based 3D printer setup. This tool supports direct G-code interaction, step-by-step movement, extrusion control, and calibration for precise material deposition.
+A Python-based graphical user interface (GUI) for controlling and calibrating a syringe-based 3D printer for aerogels. This tool supports direct G-code interaction, step-by-step movement, extrusion control, and calibration for precise material deposition.
+
+We also provide CAD files for the modular syringe pump system, enabling easy fabrication and assembly of the extrusion hardware.
 
 ---
 
